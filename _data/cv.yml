@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of California, CA, USA
+      institution: University of California, Santa Cruz, USA
       year: 2024 - now
     - title: Master
       institution: Huazhong University of Science and Technology, China
@@ -21,17 +21,15 @@
       institution: Central South University, China
       year: 2017 - 2021
 
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Hardware security.
+    - title: Hardware security
       items:
-        - Trusted Execution Environment.
-        - Side Channel Defense.
-
+        - Trusted Execution Environment
+        - Side Channel Defense
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Music (R&B, Jazz, Rock).
+    - "<u>Hobbies:</u> Music (R&B, Jazz, Rock)."

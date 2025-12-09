@@ -6,7 +6,7 @@ subtitle:
 profile:
   align: right
   image: myself.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Basking Engineering</p>
     <p>Santa Cruz, CA 95064</p>

@@ -15,35 +15,15 @@
       institution: University of California, CA, USA
       year: 2024 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Master
       institution: Huazhong University of Science and Technology, China
       year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
     - title: Bachelor
       institution: Central South University, China
       year: 2017 - 2021
       description:
 
-
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list

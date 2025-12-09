@@ -26,8 +26,9 @@ latest_posts:
 ---
 
 
-"Hey! This is Chuanhan Li. I'm a 2nd year PhD student at UCSC working with [Prof. Yuanchao Xu](https://yuanchaoxu6.github.io/).
-I spend my time hacking on hardware security (TEEs, Side Channel Defense, etc.). Right now, I'm working on building efficient, scalable security designs for CXL."
+Hey! This is Chuanhan Li. I'm a 2nd year PhD student at UCSC working with [Prof. Yuanchao Xu](https://yuanchaoxu6.github.io/).
+
+I spend my time hacking on hardware security (TEEs, Side Channel Defense, etc.). Right now, I'm working on building efficient, scalable security designs for CXL.
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-my-ms-at-uc-santa-cruz-cse-working-with-prof-yuanchao-xu-at-the-center-for-research-in-systems-and-storage",
-          title: 'Started my MS at UC Santa Cruz CSE, working with Prof. Yuanchao Xu...',
+            },},{id: "news-started-my-ms-at-uc-santa-cruz-cse-joining-the-center-for-research-in-systems-and-storage",
+          title: 'Started my MS at UC Santa Cruz CSE, joining the Center for Research...',
           description: "",
           section: "News",},{id: "news-our-paper-efficient-security-support-for-cxl-memory-through-adaptive-incremental-offloaded-re-encryption-aiore-has-been-accepted-to-micro-2025",
           title: 'Our paper “Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption”...',

@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-ms-at-uc-santa-cruz-cse-working-with-prof-yuanchao-xu-at-the-center-for-research-in-systems-and-storage",
+          title: 'Started my MS at UC Santa Cruz CSE, working with Prof. Yuanchao Xu...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-efficient-security-support-for-cxl-memory-through-adaptive-incremental-offloaded-re-encryption-aiore-has-been-accepted-to-micro-2025",
+          title: 'Our paper “Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-)Encryption”...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-excited-to-share-that-i-will-be-joining-uc-riverside-cse-as-a-phd-student-starting-fall-2026",
+          title: 'Excited to share that I will be joining UC Riverside CSE as a...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -460,6 +458,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%6C%69%33%34%36@%75%63%73%63.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/chli09", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
       id: 'light-theme',

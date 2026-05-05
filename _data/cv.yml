@@ -27,16 +27,16 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: GPU systems and architecture
+    - title: GPU systems and kernel optimization
       items:
         - CUDA kernel optimization (CUTLASS, Tensor Cores)
         - Linear attention kernels for autoregressive decoding
-        - GPU microarchitecture and side-channel analysis
-    - title: Computer architecture and security
+        - GPU microarchitecture and performance analysis
+    - title: Computer architecture
       items:
-        - Confidential computing for CXL / disaggregated memory
-        - Trusted Execution Environments
-        - Side-channel defenses
+        - Memory systems (CXL, disaggregated memory)
+        - Managed runtimes on emerging memory hierarchies
+        - High-performance interconnects (RDMA)
 
 - title: Skills
   type: list

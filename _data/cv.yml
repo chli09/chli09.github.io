@@ -11,23 +11,39 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Computer Science & Engineering
+      institution: University of California, Riverside, USA
+      year: 2026 - present
+    - title: MS in Computer Science & Engineering
       institution: University of California, Santa Cruz, USA
-      year: 2024 - now
-    - title: Master
+      year: 2024 - 2026
+    - title: MS in Computer Science
       institution: Huazhong University of Science and Technology, China
       year: 2021 - 2024
-    - title: Bachelor
+    - title: BS in Computer Science
       institution: Central South University, China
       year: 2017 - 2021
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Hardware security
+    - title: GPU systems and architecture
       items:
-        - Trusted Execution Environment
-        - Side Channel Defense
+        - CUDA kernel optimization (CUTLASS, Tensor Cores)
+        - Linear attention kernels for autoregressive decoding
+        - GPU microarchitecture and side-channel analysis
+    - title: Computer architecture and security
+      items:
+        - Confidential computing for CXL / disaggregated memory
+        - Trusted Execution Environments
+        - Side-channel defenses
+
+- title: Skills
+  type: list
+  contents:
+    - "<u>Languages:</u> C, C++, CUDA, PTX, Python, Java, Shell"
+    - "<u>GPU & Parallel:</u> CUDA, CUTLASS, Tensor Cores, Hopper (H100), GPU memory hierarchy, Nsight Compute/Systems"
+    - "<u>Systems:</u> Gem5, OpenJDK runtime, RDMA, Linux performance profiling"
 
 - title: Other Interests
   type: list

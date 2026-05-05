@@ -13,6 +13,8 @@ cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: cli346@ucsc.edu # your email address
+github_username: chli09 # your GitHub user name
+scholar_userid: # add your Google Scholar ID once available
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name

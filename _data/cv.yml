@@ -27,7 +27,7 @@
 - title: Research Interests
   type: list
   contents:
-    - GPU kernels
+    - GPU kernel optimization
     - GPU microarchitecture
 
 - title: Skills

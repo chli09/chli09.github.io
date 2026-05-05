@@ -25,18 +25,10 @@
       year: 2017 - 2021
 
 - title: Research Interests
-  type: nested_list
+  type: list
   contents:
-    - title: GPU systems and kernel optimization
-      items:
-        - CUDA kernel optimization (CUTLASS, Tensor Cores)
-        - Linear attention kernels for autoregressive decoding
-        - GPU microarchitecture and performance analysis
-    - title: Computer architecture
-      items:
-        - Memory systems (CXL, disaggregated memory)
-        - Managed runtimes on emerging memory hierarchies
-        - High-performance interconnects (RDMA)
+    - GPU kernels
+    - GPU microarchitecture
 
 - title: Skills
   type: list
